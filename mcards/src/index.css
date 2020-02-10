@@ -1,0 +1,104 @@
+html, body {
+  height: 100%;
+  margin: auto;
+}
+.content {
+  min-height: calc(100vh - 70px);
+}
+.footer {
+  height: 50px;
+}
+.registration-from {
+margin: auto;
+text-align: center;
+}
+.cross i:hover{
+  color: red;
+  cursor: pointer;
+}
+.Active {
+  color: green;
+}
+.Pending {
+  color: gray;
+
+}
+.Holded{
+  color: red;
+ 
+}
+.striped{
+  width: 50%;
+  margin: auto;
+}
+.search{
+  margin-left: 32%;
+}
+.page-footer{
+  background-color:#424242;
+}
+.nav-wrapper{
+  background-color:#424242;
+}
+.registration {
+  
+  margin: auto;
+  width: 40%;
+  text-align: center;
+}
+
+.registration-from{
+  margin: auto;
+  width: 40%;
+  text-align: center
+}
+.login{
+  margin: auto;
+  width: 40%;
+  text-align: center;;
+}
+.header i{
+  padding-left: 20px;
+}
+.home-page{
+padding-top: 2%;
+text-align: center;
+}
+.z-depth-3{
+  margin-top: 3%;
+}
+.spinner{ 
+  padding-top: 2%;
+  text-align: center;
+}
+.top{
+  width: 100%;
+  height: 30%;
+}
+/* Latge User Card */
+.profile{
+  padding-top: 2%;
+  padding-left: 30%;
+  display: flex;
+  flex-direction: column;
+}
+.up-block{
+  display: flex;
+  flex-direction: row;
+
+}
+.up-block img{
+  width: 30%;
+  height: 30%;
+}
+.info{
+  padding-top: 2px;
+  display: flex;
+  flex-direction: column; 
+  padding-left: 1%;
+  padding-right: 5%;
+}
+.card-image img{
+  width: 227.22px;
+    height: 227.22px;
+}
